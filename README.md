@@ -55,4 +55,4 @@ python make_icon.py    # 生成 app.ico（可替换为你自己的图标后重�
 
 ## 许可
 
-MIT
+本项目基于 [MIT License](LICENSE) 开源。
